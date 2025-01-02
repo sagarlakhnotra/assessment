@@ -1,0 +1,166 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main{
+    height: 700px;
+    width: 900px;
+    margin-left: 20%;
+    background-color: rgba(117, 224, 236, 0.806);
+    align-content: center;
+}
+.main-container{
+    height: 610px;
+    width: 800px;
+    margin-left: 5.5%;
+}
+.contact{
+    font-size: 22px;
+    font-weight: 500;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.338) ;
+    height: 40px;
+}
+.Address{
+    margin-top: 3%;
+    height: 110px;
+    border: 0.1px solid rgba(0, 0, 0, 0.272);
+    background-color: white;
+}
+.heding{
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 1.5%;
+}
+.address{
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+    width: 30%;
+}
+.address-and-email{
+    display: flex;
+}
+.email1{
+    color:rgb(129, 225, 238);
+}
+.email {
+margin-top: 0.1%;
+margin-left: 1.5%;
+margin-top: 1%;
+width: 30%;   
+}
+.number{
+    margin-bottom: 4%;
+    color: red;
+}
+.pincode{
+    margin-top: 2%;
+}
+.fa-phone{
+    background-color: red;
+    color: white;
+    
+}
+.fa-envelope{
+    color:rgb(129, 225, 238);
+}
+.maplogo{
+    height: 50px;
+    width: 150px;
+    margin-left: 12%;
+}
+.fa-location-dot{
+    margin-top: 11%;
+    margin-left: 30%;
+    font-size: 25px;
+    color: red;
+}
+.container{
+    height: 420px;
+    width: 800px;
+    margin-top: 7%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.form-container{
+    height: 350px;
+    width: 380px;
+    margin-top: 2%;
+}
+.map-container{
+    height: 350px;
+    width: 380px;
+    margin-top: 2%;
+}
+input{
+    height: 30px;
+    margin-left: 3%;
+    margin-top: 7%;
+}
+textarea{
+    width: 350px;
+    margin-top: 7%;
+    margin-left: 3%;
+    border-radius: 4px;
+    border: 0.5px solid rgba(0, 0, 0, 0.249);
+    
+} 
+.fa-brands{
+    margin-top: 2%;
+    font-size: 20px;
+    margin-left: 2%;
+}
+.submit{
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    width: 55px;
+
+}
+input{
+    border-radius: 4px;
+    border: 0.5px solid rgba(0, 0, 0, 0.249);
+}
+.logo{
+    display: flex;
+    
+}
+.facebooklogo {
+    margin-left: 3%;
+    margin-top: 2%;
+    height: 27px;
+    width: 27px;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.facebooklogo1{
+    margin-top: 1.9%;
+    height: 27px;
+    width: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 255, 0.715);
+    color: white;
+}
+.facebooklogo2{
+    background-color: #1D9BF0;
+    color: white;
+
+}
+.facebooklogo3{
+    background-color:  #0A66C2    ;
+    color: white;
+
+}
+.facebooklogo4{
+    background-color:  black ;
+    color: white;
+
+}
